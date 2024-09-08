@@ -3,7 +3,7 @@
 This project focuses on developing a predictive model to forecast customer churn for a subscription-based service or business. By leveraging historical customer data, including features such as usage behavior and customer demographics, the model aims to identify customers at risk of leaving the service. The project explores various machine learning algorithms, including Logistic Regression, Random Forests, and Gradient Boosting, to build an accurate and reliable churn prediction model.
 
 # Project Overview
-This project aims to develop a machine learning model to predict customer churn for a subscription-based service or business. Using historical customer data that includes features like usage behavior and customer demographics, the goal is to identify patterns and key factors that contribute to customer churn. The model helps in proactively addressing customer retention by predicting which customers are at risk of leaving.
+Aims to develop a machine learning model to predict customer churn for a subscription-based service or business. Using historical customer data that includes features like usage behavior and customer demographics, the goal is to identify patterns and key factors that contribute to customer churn. The model helps in proactively addressing customer retention by predicting which customers are at risk of leaving.
 
 # Technologies Used
 **Python:** For data analysis, feature engineering, and model implementation.
